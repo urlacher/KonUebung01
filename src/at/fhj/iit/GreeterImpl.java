@@ -18,8 +18,9 @@ public class GreeterImpl implements Greeter {
 
 	@Override
 	public void sayGoodbye() {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("Good Bye, " + this.name + "!");
+		
 	}
 
 }
