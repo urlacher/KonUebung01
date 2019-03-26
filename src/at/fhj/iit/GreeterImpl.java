@@ -19,7 +19,7 @@ public class GreeterImpl implements Greeter {
 	@Override
 	public void sayGoodbye() {
 		
-		System.out.println("Good Bye, " + this.name + "!");
+		System.out.println("Good Bye, " + this.name);
 		
 	}
 
