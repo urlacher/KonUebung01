@@ -1,2 +1,9 @@
 *.class
+<<<<<<< HEAD
 /bin/
+=======
+*.com
+*.dll
+*.exe
+*.jar
+>>>>>>> d376a63b2b74cd384b92b3b9cc7841eed4c7f025
