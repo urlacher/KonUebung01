@@ -13,8 +13,7 @@ public class GreeterImpl implements Greeter {
 
 	@Override
 	public void sayHello() {
-		// TODO Auto-generated method stub
-
+		System.out.println("Hello, " +this.name);
 	}
 
 	@Override
