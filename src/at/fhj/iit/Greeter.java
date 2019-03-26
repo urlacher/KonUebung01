@@ -2,6 +2,8 @@ package at.fhj.iit;
 
 public interface Greeter {
 	
+	
+	
 	/**
 	 * Student 1
 	 * Student 2
@@ -61,6 +63,8 @@ public interface Greeter {
 	 *
 	 *
 	 */
+	
+	
 
 	void sayHello();
 
