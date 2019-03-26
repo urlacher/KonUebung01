@@ -5,6 +5,9 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Greeter g = new GreeterImpl("Mike Ulm");
+		
+		g.sayHello();
+		g.sayGoodbye();
 
 	}
 
